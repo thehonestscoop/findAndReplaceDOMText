@@ -1,3 +1,8 @@
+
+# This is a fork of http://padolsey.github.com/findAndReplaceDOMText
+
+
+
 # findAndReplaceDOMText
 
 **[See the demo](http://padolsey.github.com/findAndReplaceDOMText/demo.html)**
