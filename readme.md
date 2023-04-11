@@ -1,11 +1,6 @@
-
-# This is a fork of http://padolsey.github.com/findAndReplaceDOMText
-
-
+# This is a fork of [http://padolsey.github.com/findAndReplaceDOMText](https://github.com/padolsey/findAndReplaceDOMText)
 
 # findAndReplaceDOMText
-
-**[See the demo](http://padolsey.github.com/findAndReplaceDOMText/demo.html)**
 
 `findAndReplaceDOMText` searches for regular expression matches in a given DOM node and replaces or wraps each match with a node or piece of text that you can specify.
 
